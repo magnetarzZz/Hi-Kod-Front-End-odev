@@ -1,0 +1,18 @@
+table{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: 1000px;
+height: 500px;
+}
+table th{
+color:#fff;
+padding: 15px 20px;
+font-size: 25px;
+padding: 30px;
+}
+table td{
+color:#fff;
+border: 1px;
+border-style: ridge;
+}
